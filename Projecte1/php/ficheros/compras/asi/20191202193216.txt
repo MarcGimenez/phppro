@@ -1,0 +1,3 @@
+Estelada preu: 59 quantitat: 9
+
+Precio total de la compra: 531

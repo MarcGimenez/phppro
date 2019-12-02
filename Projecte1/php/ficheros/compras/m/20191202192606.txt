@@ -1,0 +1,6 @@
+blazer1 preu: 90
+ quantitat: 2
+blazer2 preu: 45
+ quantitat: 1
+
+Precio total de la compra: 225

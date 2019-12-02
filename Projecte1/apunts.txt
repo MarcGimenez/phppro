@@ -1,0 +1,3 @@
+generar fitxer comanda 
+acabar comanda
+tancar sessio

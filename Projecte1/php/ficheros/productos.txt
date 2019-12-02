@@ -1,0 +1,15 @@
+bamba1,60
+bamba2,80
+bamba3,50
+camisa1,45
+camisa2,30
+camisa3,25
+pant1,60
+pant2,70
+pant3,50
+jeans1,65
+jeans2,90
+jeans3,50
+blazer1,90
+blazer2,45
+Sergio,50

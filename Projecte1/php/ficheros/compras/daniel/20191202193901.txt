@@ -1,0 +1,8 @@
+bamba2 preu: 80
+ quantitat: 3
+camisa2 preu: 30
+ quantitat: 3
+bamba1 preu: 60
+ quantitat: 2
+
+Precio total de la compra: 450

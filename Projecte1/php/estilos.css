@@ -1,0 +1,19 @@
+th{
+    border: 1px red solid;
+}
+td{
+    border: 1px black solid;
+}
+
+body{
+    padding: 25px;
+}
+
+h1{
+    color: darkred;
+}
+
+.red{
+    color: red;
+    padding-right: 10px;
+}

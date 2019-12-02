@@ -1,0 +1,8 @@
+camisa2 preu: 30
+ quantitat: 2
+camisa3 preu: 25
+ quantitat: 1
+pant3 preu: 50
+ quantitat: 3
+
+Precio total de la compra: 235

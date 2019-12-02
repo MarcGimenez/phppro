@@ -1,0 +1,4 @@
+camisa2 preu: 30
+ quantitat: 5
+
+Precio total de la compra: 150
